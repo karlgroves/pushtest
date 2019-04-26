@@ -1,0 +1,29 @@
+{
+  "name": "pushtest",
+  "version": "0.0.1",
+  "title": "pushtest",
+  "description": "Node script for reading a CSV file and pushing issues to GitHub",
+  "keywords": "api, github, node",
+  "contributors": [
+    {
+      "name": "Karl Groves",
+      "email": "karl@tenon.io",
+      "url": "http://www.tenon.io"
+    }
+  ],
+  "dependencies": {
+    "@octokit/rest": "^16.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:karlgroves/pushtest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karlgroves/pushtest/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}

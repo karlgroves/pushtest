@@ -1,0 +1,16 @@
+{
+  "github": {
+    "version": "3.0.0",
+    "debug": true,
+    "protocol": "https",
+    "host": "api.github.com",
+    "pathPrefix": "",
+    "followRedirects": false,
+    "timeout": 50000,
+    "token": "829cd09aa2b68ddc9f6e0040e6a5507f0c671b1d",
+    "user": "karlgroves",
+    "pass": "4y6xzjVgKvcM",
+    "owner": "karlgroves",
+    "repo": "pushtest"
+  }
+}
